@@ -20,7 +20,7 @@ These are the main languages I work with. Nowadays I mostly code in Rust (becaus
 
 ## Requests :email:
 
-If you have any thing you would like to be done, feel free to ask me ! I’m always happy to help if the project is interesting.
+If you have anything you would like to be done (or need help/advice), feel free to ask me ! I’m always happy to help if the project is interesting.
 
 You can reach me on Discord : `Zstorm#2822`. Please say you come from github so I don’t instant-block you (I don’t usually do this, but who knows).
 
