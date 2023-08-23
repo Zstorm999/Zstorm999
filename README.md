@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-My name is Thomas, aka Zstorm999. I’m a ~~french~~ software engineer interested in a lot of fascinating subjects, but mainly in:
+My name is Zstorm999. I’m a french software engineer interested in a lot of fascinating subjects, but mainly in:
 - video game AI :robot:
 - generative design :paintbrush: 
 - programming languages design :computer:
