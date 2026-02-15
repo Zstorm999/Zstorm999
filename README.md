@@ -36,3 +36,5 @@ Because everybody likes stats
 ## Fun fact
 
 Did you know tea is good ? Like really goood ? :tea:
+
+🏳️‍⚧️🏳️‍🌈
