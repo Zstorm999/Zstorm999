@@ -7,9 +7,7 @@ My name is Zstorm999. I’m a french software engineer interested in a lot of fa
 - programming languages design :computer:
 
 
-At the moment, I’m working on two side projects (outside of my daily job) :
-- [organic roguelike](https://github.com/Zstorm999/organic-roguelike), an experiment to generate an interesting roguelike world that does not have this classic "squary" look to the rooms
-- an improvement of my previous work on [tilemap editor](https://github.com/Zstorm999/tilemap_editor), a tool to design old-school tilemaps and scenes for video games (zelda style)
+At the moment, I’m working on a strategy/management game that best can be discribed as: "silk road, but in space". Stay tuned !
 
 ## Languages
 
